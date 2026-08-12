@@ -22,7 +22,8 @@ The visual output compares the model's generated CT scan (`Tahmini CTn`) with th
 
 ### Visual Comparison (Difference Map - Magma Colormap)
 ![Fark Haritası](results/Mutlak%20Fark%20Haritası%20(Pred%20-%20GT).tif)
-<img width="1170" height="697" alt="Ekran görüntüsü 2026-08-12 004709" src="https://github.com/user-attachments/assets/28233e13-a3f6-4c54-826a-7d8ea42457cc" />
+<img width="518" height="526" alt="Ekran görüntüsü 2026-08-12 004709" src="https://github.com/user-attachments/assets/fd6fb5f0-4e33-4edf-ab7c-92ed138d1157" />
+
 
 **Interpretation:**
 The difference map demonstrates the model's structural accuracy:
